@@ -6,7 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/BarrelShooting/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"E:/BarrelShooting/Content/Main.umap"
+				"E:/BarrelShooting/Content/Main.umap",
+				"E:/BarrelShooting/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/BarrelShooting/Content/BP_Projectitle.uasset",
+				"E:/BarrelShooting/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
 			]
 		}
 	]
