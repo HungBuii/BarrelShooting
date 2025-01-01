@@ -26,8 +26,11 @@ Using Geometry Brush to make world
 ![image](https://github.com/user-attachments/assets/fdce397e-de8f-41e3-a2ae-988c7ebfd10a)
 
 Using another Geometry Brush Object to create the empty inner space
+
 ![image](https://github.com/user-attachments/assets/a0d5589d-aa54-48f7-a55d-5e67c6073fe3)
+
 ![image](https://github.com/user-attachments/assets/13e1a12a-ffb3-4149-9d43-9e82788d405a)
+
 ![image](https://github.com/user-attachments/assets/57afdf34-bb0e-4270-a329-7aad99508477)
 
 
